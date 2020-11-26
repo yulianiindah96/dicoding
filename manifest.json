@@ -1,0 +1,19 @@
+{
+    "name" : "Soccer Teams",
+    "gcm_sender_id":"1062109802276",
+    "short_name" : "Soccer Teams",
+    "description" : "Ini merupakan aplikasi Tim Sepakbola",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "background_color" : "#00897B",
+    "theme_color" : "#00897B",
+    "icons" : [
+    
+      {
+        "src": "bola.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+}
